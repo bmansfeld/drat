@@ -5,3 +5,8 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: Yang2013data
+Version: 0.1.0
+License: GPL-3
+MD5sum: 2cdac368dd70a7fe1d9a0261927a005b
+NeedsCompilation: no
